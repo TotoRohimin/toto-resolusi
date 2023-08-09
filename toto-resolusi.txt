@@ -1,4 +1,5 @@
 Toto resolusi:
 - Konsisten belajar pemrograman
 - Bisa membuat sebuah project dan di upload ke github
-- paham dan bisa memanfaatkan ilmu
+- Paham dan bisa memanfaatkan ilmu
+- Tetap menjadi manusia yang berakhlak
