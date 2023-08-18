@@ -3,3 +3,4 @@ Toto resolusi:
 - Bisa membuat sebuah project dan di upload ke github
 - Paham dan bisa memanfaatkan ilmu
 - Tetap menjadi manusia yang berakhlak
+- menjadi manusia yang baik
